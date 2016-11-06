@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-tags: [random, exciting-stuff]
+tags: [Hello-World, exciting-stuff]
 ---
 
-This is my first post, how exciting!
+This is my first post on a website driven by GitHub Pages and Jekyll  , how exciting!
